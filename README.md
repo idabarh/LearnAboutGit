@@ -1,1 +1,1 @@
-Hei! dette er en test.
+Hei! Dette er en test.
